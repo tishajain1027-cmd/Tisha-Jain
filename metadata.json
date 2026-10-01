@@ -1,0 +1,6 @@
+{
+  "name": "A Silly Goose Baby Shower - Aman & Trisha Gulati",
+  "description": "Interactive mobile-first digital baby shower invitation celebrating Baby Gulati with a silly goose & baby bow theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
